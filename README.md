@@ -58,15 +58,9 @@ Where the supported channels are:
 Movies                                      Time              Rating
 ------------------------------------------  ----------------  --------
 Lara Croft Tomb Raider: The Cradle of Life  6:50 PM-9:00 PM   5.5
+
 Mission: Impossible - Rogue Nation          9:00 PM-11:23 PM  7.4
-Super 8                                     11:23 PM-1:38 AM  7.1
-A Nightmare on Elm Street                   1:38 AM-3:05 AM   7.5
-Inside HBO                                  3:05 AM-3:08 AM   -
-Only God Forgives                           3:08 AM-4:25 AM   5.7
-21 Jump Street                              4:25 AM-6:00 AM   7.2
-Inside HBO                                  6:00 AM-6:23 AM   -
-Jonah Hex                                   6:23 AM-7:41 AM   4.7
-Mission Impossible                          7:41 AM-9:39 AM   7.1
+
 
 
 
