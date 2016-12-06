@@ -49,20 +49,15 @@ Where the supported channels are:
 
     $ python La-Z-Boy
 
-    Enter name of the TV Channel: hbo
 
 
 
 **Output:**
 
-Movies                                      Time              Rating
-------------------------------------------  ----------------  --------
-Lara Croft Tomb Raider: The Cradle of Life  6:50 PM-9:00 PM   5.5
+    For the love of good content
+    Enter the name of the TV Channel :hbo
 
-Mission: Impossible - Rogue Nation          9:00 PM-11:23 PM  7.4
-
-
-
+    Movie: Dawn of the Planet of the Apes  Time: 21:00 - 23:45  Rating: 7.6
 
 
 And it's done! You have the name of the movie, timings and most importantly, the IMDb rating for the movie
