@@ -23,13 +23,11 @@ Install all the dependencies using `pip install -r requirements.txt` before usin
 
 ### Usage
 -----------------
+ **Run the commands to install the package:**
 
-**Run the program:**
-
-    $ python main.py [channel name]
+ $  sudo python setup.py install
 
 
-    `channel name` : Name of the movie channel
 
 Where the supported channels are:
 
@@ -43,14 +41,34 @@ Where the supported channels are:
 - filmy
 - star-gold
 
+**Run the commands to execute:**
+
+  $  python La-Z-Bo
+
 **Example:**
 
-    $ python main.py star movies
+    $ python La-Z-Boy
+
+    Enter name of the TV Channel: hbo
+
 
 
 **Output:**
 
-    Movie: Dawn of the Planet of the Apes  Time: 21:00 - 23:45  Rating: 7.6
+Movies                                      Time              Rating
+------------------------------------------  ----------------  --------
+Lara Croft Tomb Raider: The Cradle of Life  6:50 PM-9:00 PM   5.5
+Mission: Impossible - Rogue Nation          9:00 PM-11:23 PM  7.4
+Super 8                                     11:23 PM-1:38 AM  7.1
+A Nightmare on Elm Street                   1:38 AM-3:05 AM   7.5
+Inside HBO                                  3:05 AM-3:08 AM   -
+Only God Forgives                           3:08 AM-4:25 AM   5.7
+21 Jump Street                              4:25 AM-6:00 AM   7.2
+Inside HBO                                  6:00 AM-6:23 AM   -
+Jonah Hex                                   6:23 AM-7:41 AM   4.7
+Mission Impossible                          7:41 AM-9:39 AM   7.1
+
+
 
 
 And it's done! You have the name of the movie, timings and most importantly, the IMDb rating for the movie
